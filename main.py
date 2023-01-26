@@ -7,7 +7,6 @@ if __name__ == "__main__":
 
     HEIGHT = 630
     WIDTH = 400
-    line = ""
 
     root.title("Калькулятор")
     root["bg"] = "black"
